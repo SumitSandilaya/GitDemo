@@ -58,3 +58,5 @@ def _capture_screenshot(name):
     #To check commit and pull from cmd
 
     #to check Branches concept
+
+    #to check brances correct
