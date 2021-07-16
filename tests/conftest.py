@@ -63,9 +63,5 @@ def _capture_screenshot(name):
 #trying to merge Branch into master
 #type to check merge between master and branchA
 
-<<<<<<<<< Temporary merge branch 1
 #From Branch to Master
-=========
-#From Branch to Master
-#Once More
->>>>>>>>> Temporary merge branch 2
+
