@@ -54,3 +54,4 @@ def _capture_screenshot(name):
     driver.get_screenshot_as_file(name)
 
     # This to Validate Git Hub setup
+    #Git Hub setup seems like Good.
