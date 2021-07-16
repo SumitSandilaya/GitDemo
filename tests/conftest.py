@@ -58,3 +58,7 @@ def _capture_screenshot(name):
     #To check commit and pull from cmd
 
     #to check Branches concept
+
+    #testi
+#trying to merge Branch into master
+#type to check merge between master and branchA
