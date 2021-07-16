@@ -60,5 +60,3 @@ def _capture_screenshot(name):
     #to check Branches concept
 
     #testi
-
-    #testig kkjjv
