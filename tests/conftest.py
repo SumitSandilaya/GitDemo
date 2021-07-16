@@ -61,4 +61,4 @@ def _capture_screenshot(name):
 
     #testi
 #trying to merge Branch into master
-#type to check merge between master and branchA
+#type to check merge between master and branch
