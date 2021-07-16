@@ -56,3 +56,5 @@ def _capture_screenshot(name):
     # This to Validate Git Hub setup
     #Git Hub setup seems like Good.
     #To check commit and pull from cmd
+
+    #to check Branches concept
