@@ -57,4 +57,4 @@ def _capture_screenshot(name):
     #Git Hub setup seems like Good.
     #To check commit and pull from cmd
 
-    #to check Branches con
+    #to check Branches concept
